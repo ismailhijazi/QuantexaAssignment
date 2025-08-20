@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = D:\Practice\Quentexa\target\scala-2.12\test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataValidationUtilsSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataValidationUtilsSpec$$typecreator25$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CsvUtilsSpec$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataValidationUtilsSpec$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataValidationUtilsSpec$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CsvUtilsSpec$$typecreator15$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CsvUtilsSpec$$typecreator9$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CsvUtilsSpec$$typecreator10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CsvUtilsSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataValidationUtilsSpec$$typecreator21$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataValidationUtilsSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataValidationUtilsSpec$$typecreator25$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CsvUtilsSpec$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataValidationUtilsSpec$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataValidationUtilsSpec$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CsvUtilsSpec$$typecreator15$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CsvUtilsSpec$$typecreator9$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CsvUtilsSpec$$typecreator10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CsvUtilsSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataValidationUtilsSpec$$typecreator21$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataValidationUtilsSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataValidationUtilsSpec$$typecreator25$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CsvUtilsSpec$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataValidationUtilsSpec$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataValidationUtilsSpec$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CsvUtilsSpec$$typecreator15$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CsvUtilsSpec$$typecreator9$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CsvUtilsSpec$$typecreator10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CsvUtilsSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataValidationUtilsSpec$$typecreator21$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: D:\Practice\Quentexa\target\scala-2.12\test-classes.bak[0m

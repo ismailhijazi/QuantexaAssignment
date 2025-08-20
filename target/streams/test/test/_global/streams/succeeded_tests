@@ -1,0 +1,9 @@
+#Successful Tests
+#Wed Aug 20 04:38:52 GST 2025
+QuantexaAssignment.analytics.MostFrequentFlyersSpec=1755650317625
+QuantexaAssignment.analytics.FlownTogetherInDateRangeSpec=1755650322673
+QuantexaAssignment.util.CsvUtilsSpec=1755650324531
+QuantexaAssignment.analytics.PassengersFlownTogetherSpec=1755650323263
+QuantexaAssignment.analytics.TotalFlightsPerMonthSpec=1755650321234
+QuantexaAssignment.util.DataValidationUtilsSpec=1755650318430
+analytics.LongestRunWithoutUKSpec=1755650332414

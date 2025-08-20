@@ -73,10 +73,13 @@ Unit tests are provided for both utility and analytics modules. The tests cover:
 - Data validation (schema, non-empty datasets)
 - CSV and Parquet reading/writing
 - Analytics logic for all assignment questions
+- Error handling (invalid schema, empty files, corrupted data)
 
 Tests are written using ScalaTest and can be run with `sbt test`. Test reports are generated in `target/test-reports/` for review. This ensures correctness, robustness, and maintainability of the codebase.
 
-In addition to automated unit tests, manual testing was performed using a small sample of flight and passenger data. This helped verify the correctness of analytics outputs and ensured the application works as expected with real input files and edge cases.
+Manual testing was performed using a small sample of flight and passenger data to verify analytics outputs and ensure the application works as expected with real input files and edge cases. Sample data files are included for this purpose.
+
+Integration testing is supported by running the full workflow with real or synthetic data, validating end-to-end correctness from input to output.
 
 ## Packaging for Submission
 Zip the entire project directory, including:
@@ -86,6 +89,7 @@ Zip the entire project directory, including:
 - Test reports
 - ARCHITECTURE.md
 - BIG_DATA_ENHANCEMENTS.md
+- Data files (e.g., flightData.csv, passengers.csv)
 
 ## Functional Programming Features
 - Modularized code using functions and objects
@@ -129,3 +133,7 @@ For more details about the project structure and scalability enhancements, refer
 
 ## Contact
 For any questions, please contact the author or refer to the assignment instructions.
+
+## Repository
+The source code for this project is also available on GitHub:
+https://github.com/ismailhijazi/QuantexaAssignment
